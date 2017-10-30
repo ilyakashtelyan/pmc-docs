@@ -9,14 +9,13 @@ JPS Workflow Narrative instructions
   may run in parallel. Please refer to the workflow diagram for further
   information.
 
-.. note:: this is not a specific guide for each task. Instead, this
+.. important:: This is not a specific guide for each task. Instead, this
   document should give you a general idea of how the tasks are arranged
   and what’s the overall purpose of each task, as well as serve as a
   point of reference for the various naming conventions used throughout
-  the system.
-| For specific instructions associated with each task, please refer to
+  the system. For specific instructions associated with each task, please refer to
   the linked videos.
-| Important: the password to access all videos is 1100316
+.. note:: the password to access all videos is 1100316
 | Video: `JPS
   Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
