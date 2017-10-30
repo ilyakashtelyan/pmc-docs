@@ -25,7 +25,7 @@ JPS Workflow Narrative instructions
 .. raw:: html
 	<video controls src="_static/JPSIntro.mp4"></video>
 	
-Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
+| Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
 Assign to vendor
 ================
@@ -102,14 +102,14 @@ Export files for initial proof
   ZIP archive names as follows: OT_[MS#]_orig.zip
 | The following files are supplied to the vendor if present in the
   original accepted submission:
-| a. Article/Source = OT_[MS#]_[ID]_ms.doc/docx
-| b. Figures/Source = OT_[MS#]_[ID]_figure1.ext
-| c. Tables/Source = OT_[MS#]_[ID]_table1.ext
-| d. Supplemental material/Source = OT_[MS#]_[ID]_supp1.ext
-| e. V[ID]eo/Source = OT_[MS#]_[ID] \_v[ID]eo.ext
-| f. Dataset/Source= OT_[MS#]_[ID] \_dataset1.ext
-| g. Merged PDF = OT_[MS#]_[ID].pdf
-| Note: [MS#] is the six-digit manuscript number assigned by the
+ a. Article/Source = OT_[MS#]_[ID]_ms.doc/docx
+ b. Figures/Source = OT_[MS#]_[ID]_figure1.ext
+ c. Tables/Source = OT_[MS#]_[ID]_table1.ext
+ d. Supplemental material/Source = OT_[MS#]_[ID]_supp1.ext
+ e. V[ID]eo/Source = OT_[MS#]_[ID] \_v[ID]eo.ext
+ f. Dataset/Source= OT_[MS#]_[ID] \_dataset1.ext
+ g. Merged PDF = OT_[MS#]_[ID].pdf
+.. note:: [MS#] is the six-digit manuscript number assigned by the
   submission system. Revision markers (R1, R2) are not included in this
   number. [ID] is a sequential identifier assigned to each file in the
   package, it can be ignored.
@@ -135,7 +135,7 @@ Awaiting import - initial
   OT_[MS#]_supplementary_proof.pdf
 | c. Any additional supplementary materials proofs (if present) =
   OT_[MS#]_supplementary_proof[ID].pdf
-| Note: [ID] is a sequential number of the supplementary proof file,
+.. note:: [ID] is a sequential number of the supplementary proof file,
   starting with 2. So, if an article requires three PDF supplementary
   proof files, the ID will be 2 for the second file and 3 for the third
   file.
