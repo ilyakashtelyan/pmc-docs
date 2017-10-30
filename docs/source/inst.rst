@@ -131,6 +131,7 @@ Awaiting import - initial
   and any supplementary files that may be present. To ensure the
   successful import of the page proofs, the files must be named as
   follows:
+  
  - article proof = OT_[MS#]_proof.pdf
  - first supplementary materials proof (if present) =   OT_[MS#]_supplementary_proof.pdf
  - Any additional supplementary materials proofs (if present) =   OT_[MS#]_supplementary_proof[ID].pdf
