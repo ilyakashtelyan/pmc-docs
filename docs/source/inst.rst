@@ -17,26 +17,26 @@ JPS Workflow Narrative instructions
   the linked videos.
 .. note:: the password to access all videos is 1100316
 
-.. raw:: html 
-:file: JPSIntro.mp4
-
 | Video: `JPS
   Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
 ASSIGN TO VENDOR
 ================
 
-| Roles: Production manager
+| _Roles: Production manager_
+
 | The Assign to vendor task (system [ID] 117) open automatically when an
   accepted paper is imported from the submission system. During this
   task, the production manager reviews the originally submitted
   manuscript to collect and act upon the following information:
+  
 | - Whether the manuscript was assigned to the correct section
 | - Whether a fee waiver or any English editing fees may apply
 | - What type of license/author agreement document should be sent to the
   authors
 | - Whether the manuscript section places any restrictions on which
   vendor it may be assigned to
+  
 | The production editor then records the results of their inquiry using
   the designated system functions and assigns the manuscript to the
   composition vendor. Before completing the task, the production editor
@@ -45,13 +45,14 @@ ASSIGN TO VENDOR
   task: `AWAITING LICENSE TO PUBLISH <#awaiting-license-to-publish>`__,
   `AWAITING PAYMENT <#awaiting-payment>`__, and
   `COMPOSITION <#composition>`__.
+  
 | Video: `Assigning the manuscript to a vendor - full
   workflow <http://oncotarget.screencasthost.com/watch/cbQYYhI3Ms>`__
 
 AWAITING LICENSE TO PUBLISH
 ===========================
 
-| Roles: Record office, Author
+| _Roles: Record office, Author_
 | Immediately upon completion of the `ASSIGN TO
   VENDOR <#assign-to-vendor>`__ task, JPS opens a query and notifies the
   authors regarding the required license to publish or author agreement
