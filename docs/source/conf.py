@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'PMC Corrections documents'
+project = 'JPS Docum,entation'
 copyright = '2017, Oncotarget'
 author = 'Oncotarget'
 
@@ -119,7 +119,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PMCCorrectionsdocumentsdoc'
+htmlhelp_basename = 'JPSinst'
 
 
 # -- Options for LaTeX output ---------------------------------------------
