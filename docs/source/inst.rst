@@ -8,7 +8,6 @@ JPS Workflow Narrative instructions
   extent possible. Please keep in mind that some tasks or task chains
   may run in parallel. Please refer to the workflow diagram for further
   information.
-| 
 
 .. note: : this is not a specific guide for each task. Instead, this
   document should give you a general idea of how the tasks are arranged
