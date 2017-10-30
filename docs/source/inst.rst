@@ -23,7 +23,7 @@ JPS Workflow Narrative instructions
 	</embed>
 
 .. raw:: html
-	<video controls src="_static/JPSIntro.mp4"></video>
+	<video controls src="media/JPSIntro.mp4"></video>
 	
 | Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
@@ -133,8 +133,8 @@ Awaiting import - initial
   follows:
   
  - article proof = OT_[MS#]_proof.pdf
- - first supplementary materials proof (if present) =   OT_[MS#]_supplementary_proof.pdf
- - Any additional supplementary materials proofs (if present) =   OT_[MS#]_supplementary_proof[ID].pdf
+ - first supplementary materials proof (if present) = OT_[MS#]_supplementary_proof.pdf
+ - Any additional supplementary materials proofs (if present) = OT_[MS#]_supplementary_proof[ID].pdf
 .. note:: [ID] is a sequential number of the supplementary proof file,
   starting with 2. So, if an article requires three PDF supplementary
   proof files, the ID will be 2 for the second file and 3 for the third
