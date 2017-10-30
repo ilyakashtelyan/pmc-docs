@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'JPS Docum,entation'
+project = 'JPS Documentation'
 copyright = '2017, Oncotarget'
 author = 'Oncotarget'
 
