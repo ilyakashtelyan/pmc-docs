@@ -25,6 +25,8 @@ JPS Workflow Narrative instructions
 .. raw:: html
 	<video controls src="_static/JPSIntro.mp4"></video>
 	
+| |video1|
+	
 | Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
 Assign to vendor
@@ -319,3 +321,4 @@ Ready for archving
 .. |image2| image:: _static/image3.png
    :width: 4.56667in
    :height: 1.61378in
+.. |video1| video:: _static/JPSIntro.mp4
