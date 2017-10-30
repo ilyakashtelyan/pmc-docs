@@ -23,7 +23,7 @@ JPS Workflow Narrative instructions
 ASSIGN TO VENDOR
 ================
 
-| _Roles: Production manager_
+| *Role: Production manager*
 
 | The Assign to vendor task (system [ID] 117) open automatically when an
   accepted paper is imported from the submission system. During this
@@ -52,7 +52,8 @@ ASSIGN TO VENDOR
 AWAITING LICENSE TO PUBLISH
 ===========================
 
-| _Roles: Record office, Author_
+| *Roles: Record office, Author*
+
 | Immediately upon completion of the `ASSIGN TO
   VENDOR <#assign-to-vendor>`__ task, JPS opens a query and notifies the
   authors regarding the required license to publish or author agreement
