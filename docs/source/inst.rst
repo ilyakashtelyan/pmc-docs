@@ -18,7 +18,7 @@ JPS Workflow Narrative instructions
 .. note:: the password to access all videos is 1100316
 
 .. raw:: html
-<iframe width=1280 height=720 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQYosI34l&v=5&ff=1" allowfullscreen="true"></iframe>
+ <video controls src="_static/JPSintro.mp4"></video>
 
 | Video: `JPS
   Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
