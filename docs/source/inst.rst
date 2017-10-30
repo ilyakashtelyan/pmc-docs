@@ -102,13 +102,13 @@ Export files for initial proof
   ZIP archive names as follows: OT_[MS#]_orig.zip
 | The following files are supplied to the vendor if present in the
   original accepted submission:
- a. Article/Source = OT_[MS#]_[ID]_ms.doc/docx
- b. Figures/Source = OT_[MS#]_[ID]_figure1.ext
- c. Tables/Source = OT_[MS#]_[ID]_table1.ext
- d. Supplemental material/Source = OT_[MS#]_[ID]_supp1.ext
- e. V[ID]eo/Source = OT_[MS#]_[ID] \_v[ID]eo.ext
- f. Dataset/Source= OT_[MS#]_[ID] \_dataset1.ext
- g. Merged PDF = OT_[MS#]_[ID].pdf
+ - Article/Source = OT_[MS#]_[ID]_ms.doc/docx
+ - Figures/Source = OT_[MS#]_[ID]_figure1.ext
+ - Tables/Source = OT_[MS#]_[ID]_table1.ext
+ - Supplemental material/Source = OT_[MS#]_[ID]_supp1.ext
+ - Video/Source = OT_[MS#]_[ID]_video.ext
+ - Dataset/Source= OT_[MS#]_[ID]_dataset1.ext
+ - Merged PDF = OT_[MS#]_[ID].pdf
 .. note:: [MS#] is the six-digit manuscript number assigned by the
   submission system. Revision markers (R1, R2) are not included in this
   number. [ID] is a sequential identifier assigned to each file in the
@@ -130,11 +130,9 @@ Awaiting import - initial
   and any supplementary files that may be present. To ensure the
   successful import of the page proofs, the files must be named as
   follows:
-| a. article proof = OT_[MS#]_proof.pdf
-| b. first supplementary materials proof (if present) =
-  OT_[MS#]_supplementary_proof.pdf
-| c. Any additional supplementary materials proofs (if present) =
-  OT_[MS#]_supplementary_proof[ID].pdf
+ - article proof = OT_[MS#]_proof.pdf
+ - first supplementary materials proof (if present) =   OT_[MS#]_supplementary_proof.pdf
+ - Any additional supplementary materials proofs (if present) =   OT_[MS#]_supplementary_proof[ID].pdf
 .. note:: [ID] is a sequential number of the supplementary proof file,
   starting with 2. So, if an article requires three PDF supplementary
   proof files, the ID will be 2 for the second file and 3 for the third
