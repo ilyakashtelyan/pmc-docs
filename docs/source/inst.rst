@@ -102,6 +102,7 @@ Export files for initial proof
   ZIP archive names as follows: OT_[MS#]_orig.zip
 | The following files are supplied to the vendor if present in the
   original accepted submission:
+  
  - Article/Source = OT_[MS#]_[ID]_ms.doc/docx
  - Figures/Source = OT_[MS#]_[ID]_figure1.ext
  - Tables/Source = OT_[MS#]_[ID]_table1.ext
