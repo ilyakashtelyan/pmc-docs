@@ -17,8 +17,7 @@ JPS Workflow Narrative instructions
   the linked videos.
 .. note:: the password to access all videos is 1100316
 
-.. raw:: html
- <video controls src="_static/JPSIntro.mp4"></video>
+.. raw:: html <video width="640" height="480" controls><source src="_static/JPSIntro.mp4" type="video/mp4"></video>
 
 | Video: `JPS
   Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
