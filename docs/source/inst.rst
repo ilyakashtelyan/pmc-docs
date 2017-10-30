@@ -23,7 +23,7 @@ JPS Workflow Narrative instructions
 	</div>
 	
 Video: `JPS
-  Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`
+  Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
 Assign to vendor
 ================
