@@ -310,12 +310,12 @@ Ready for archving
 | Video: `JPS - Archiving the paper for
   issue <http://oncotarget.screencasthost.com/watch/cb6FqOIshQ>`__
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: _static/image1.png
    :width: 2.71641in
    :height: 2.89167in
-.. |image1| image:: media/image2.png
+.. |image1| image:: _static/image2.png
    :width: 2.55029in
    :height: 1.55in
-.. |image2| image:: media/image3.png
+.. |image2| image:: _static/image3.png
    :width: 4.56667in
    :height: 1.61378in
