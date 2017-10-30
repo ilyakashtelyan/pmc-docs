@@ -20,7 +20,7 @@ JPS Workflow Narrative instructions
 | Video: `JPS
   Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
-ASSIGN TO VENDOR
+Assign to vendor
 ================
 
 | *Role: Production manager*
@@ -42,60 +42,57 @@ ASSIGN TO VENDOR
   composition vendor. Before completing the task, the production editor
   has an option to add special instructions to the composition vendor.
   Three tasks open automatically upon completion of the ASSIGN TO VENDOR
-  task: `AWAITING LICENSE TO PUBLISH <#awaiting-license-to-publish>`__,
-  `AWAITING PAYMENT <#awaiting-payment>`__, and
-  `COMPOSITION <#composition>`__.
+  task: `Awaiting license to publish <#awaiting-license-to-publish>`__,
+  `Awaiting payment <#awaiting-payment>`__, and
+  `Composition <#composition>`__.
   
 | Video: `Assigning the manuscript to a vendor - full
   workflow <http://oncotarget.screencasthost.com/watch/cbQYYhI3Ms>`__
 
-AWAITING LICENSE TO PUBLISH
+Awaiting license to publish
 ===========================
 
 | *Roles: Record office, Author*
 
-| Immediately upon completion of the `ASSIGN TO
-  VENDOR <#assign-to-vendor>`__ task, JPS opens a query and notifies the
+| Immediately upon completion of the `Assign to vendor <#assign-to-vendor>`__ task, JPS opens a query and notifies the
   authors regarding the required license to publish or author agreement
   document. The system sends scheduled reminders to the authors until
   the complete the query response. Upon completion of the query
   response, the system notifies the Forms Office staff that a document
   was submitted and asks them to review it. The Forms Office staff
-  reviews the document and either reinitiates the AWAITING LICENSE TO
-  PUBLISH task if the provided document is not suitable, or records the
+  reviews the document and either reinitiates the Awaiting license to publish task if the provided document is not suitable, or records the
   status of the form as received and completes the task. Note that this
-  task blocks the `EPUB IN OJS <#epub-in-ojs>`__ task: it won’t open
+  task blocks the `ePub in OJS <#epub-in-ojs>`__ task: it won’t open
   until this task is complete.
 
-AWAITING PAYMENT
+Awaiting payment
 ================
 
 | Roles: Payment office, Authors
 | Awaiting payment is a multi-step task that runs in parallel with the
-  rest of the workflow. This task opens when the `ASSIGN TO
-  VENDOR <#assign-to-vendor>`__ task is completed and involves
+  rest of the workflow. This task opens when the `Assign to vendor <#assign-to-vendor>`__ task is completed and involves
   generating the initial invoice, adjusting it per authors’
   requirements, recording payments (manually for checks, wire transfers,
   and ACH, automatically for credit cards), and providing receipts and
   paid invoice documents.
 
-COMPOSITION
+Composition
 ===========
 
-| COMPOSITION is a group of tasks that are arranged together to achieve
+| Composition is a group of tasks that are arranged together to achieve
   the goals of creating the page proofs and obtaining feedback on these
   proofs from the manuscript’s authors.
 | Video: `JPS - Author proofing
   process <http://oncotarget.screencasthost.com/watch/cbQrrFIZ6F>`__
 
-EXPORT FILES FOR INITIAL PROOF
+Export files for initial proof
 ------------------------------
 
-| Role: System
+| *Role: System*
 | This is an automated system task during which JPS gathers the files
   transferred from the submission system, organizes them into an
   archive, and notifies the composition vendor assigned to the article
-  in the `ASSIGN TO VENDOR <#assign-to-vendor>`__ task that the page
+  in the `Assign to vendor <#assign-to-vendor>`__ task that the page
   proofs need to be prepared. The files will be packaged together in a
   ZIP archive names as follows: OT_[MS#]_orig.zip
 | The following files are supplied to the vendor if present in the
@@ -118,7 +115,7 @@ EXPORT FILES FOR INITIAL PROOF
   ready for the page proofs. The Awaiting import – initial proof task
   will open automatically.
 
-AWAITING IMPORT - INITIAL PROOF
+Awaiting import - initial
 -------------------------------
 
 | Role: Vendor
@@ -151,7 +148,7 @@ AWAITING IMPORT - INITIAL PROOF
 | After the proofs import successfully, the author will be notified and
   the Author proof review task will open.
 
-AUTHOR PROOF REVIEW
+Author proof review
 -------------------
 
 | Role: Authors
@@ -163,7 +160,7 @@ AUTHOR PROOF REVIEW
   provide their comments. Alternatively, authors have the option to sign
   off on the proofs without requesting any corrections.
 
-EXPORT FILES FOR REVISED PROOF
+Export files for revised proof
 ------------------------------
 
 | Role: System
@@ -178,7 +175,7 @@ EXPORT FILES FOR REVISED PROOF
   if it was completed at an earlier point), JPS will process and package
   the author proof response and then upload it to the FTP. As soon as
   the upload is finished, JPS will notify the vendor and open the ePub
-  in OJS task. At this point, the COMPOSITION process is finished.
+  in OJS task. At this point, the `Composition <#composition>`__ process is finished.
 | The response files will be in the following directory:
   /home/JPS/From_JPS
 | The files will be packaged in a ZIP archive and named as follows:
@@ -188,7 +185,7 @@ EXPORT FILES FOR REVISED PROOF
   their proof revisions. Here’s a typical proof response package:
 | |image2|
 
-EPUB IN OJS
+ePub in OJS
 ===========
 
 | Role: Vendor
@@ -215,7 +212,7 @@ EPUB IN OJS
 | Video: `JPS - Publishing an article in
   OJS <http://oncotarget.screencasthost.com/watch/cbQOYFIuN1>`__
 
-EPUB IN PAPERCHASE
+ePub in Paperchase
 ==================
 
 | Role: Production manager
@@ -229,7 +226,7 @@ EPUB IN PAPERCHASE
 | Video: `JPS - ePub in
   Paperchase <http://oncotarget.screencasthost.com/watch/cbQUbzIxb8>`__
 
-POST-PUBLICAION CHECK
+Post-publication check
 =====================
 
 | The post-publication check is a group of tasks that are arranged
@@ -240,7 +237,7 @@ POST-PUBLICAION CHECK
 | Video: `JPS - Post-publication check; overview and
   navigation <http://oncotarget.screencasthost.com/watch/cb6eFAIzev>`__
 
-ASSIGN POST-PUBLICATION CHECK TO PE
+Assign post-publication check to PE
 -----------------------------------
 
 | Role: Production Editor Manager
@@ -250,7 +247,7 @@ ASSIGN POST-PUBLICATION CHECK TO PE
 | Video: `JPS - Assigning the post-publication check
   task <http://oncotarget.screencasthost.com/watch/cb6eqwIziY>`__
 
-POST-PUBLICATION CHECK (ROUND 1)
+Post-publication check (round 1)
 --------------------------------
 
 | Role: Production Editor
@@ -269,7 +266,7 @@ POST-PUBLICATION CHECK (ROUND 1)
 | Video: `JPS - Post-publication check: contacting authors and recording
   response <http://oncotarget.screencasthost.com/watch/cb60blI84N>`__
 
-VENDOR REVISIONS REQUIRED
+Vendor revisions required
 -------------------------
 
 | Role: Vendor
@@ -279,7 +276,7 @@ VENDOR REVISIONS REQUIRED
 | Video: `JPS - Post-publication check - Vendor
   perspective <http://oncotarget.screencasthost.com/watch/cb6QYlICTn>`__
 
-POST-PUBLICATION CHECK (ROUND 2)
+Post-publication check (round 2)
 --------------------------------
 
 | Role: Production Editor
@@ -291,7 +288,7 @@ POST-PUBLICATION CHECK (ROUND 2)
   to the vendor for further corrections and the other one complete the
   post-publication check process and opens the ready for archiving task.
 
-READY FOR ARCHIVING
+Ready for archving
 ===================
 
 | Role: Vendor
