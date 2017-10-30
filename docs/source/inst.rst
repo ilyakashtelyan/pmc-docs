@@ -23,7 +23,7 @@ JPS Workflow Narrative instructions
 	</embed>
 
 .. raw:: html
-	<video controls src="media/JPSIntro.mp4"></video>
+	<video controls src="_static/JPSIntro.mp4"></video>
 	
 | Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
