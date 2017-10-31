@@ -19,9 +19,7 @@ JPS Workflow Narrative instructions
 
 .. raw:: html
 
-	<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-		<iframe src="https://screencast-o-matic.com/embed?sc=cbQYosI34l" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-	</div>
+	<iframe width=1280 height=752 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQYosI34l&v=5&controls=1&ff=1" allowfullscreen="true"></iframe>
 
 .. raw:: html
 	
