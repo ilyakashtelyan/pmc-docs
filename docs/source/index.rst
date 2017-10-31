@@ -2,7 +2,7 @@
 JPS Documentation
 =========================================
 
-The purpose of this document is to provide narrative instructions for the workflow currently implemented in 
+The purpose of this document is to provide narrative instructions for the workflow currently implemented in Impact Journals JPS.
 
 
 
