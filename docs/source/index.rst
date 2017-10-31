@@ -1,11 +1,18 @@
 
-JPS Docs
+JPS Documentation
 =========================================
 
-The purpose of this document is to provide simple, but detailed guide to the realm of PMC corrections.
+The purpose of this document is to provide narrative instructions for the workflow currently implemented in 
 
 
 
 .. toctree::
    
-   inst
+   intro
+   assigntovendor
+   license
+   payment
+   comp
+   epub
+   pacheck
+   archiving
