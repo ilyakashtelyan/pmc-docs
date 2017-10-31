@@ -1,12 +1,12 @@
 Assign to vendor
 ================
 
-| ***Role: Production manager***
+| *Role: Production manager*
 
-| The Assign to vendor task (system [ID] 117) open automatically when an
+| The Assign to vendor task opens automatically when an
   accepted paper is imported from the submission system. During this
   task, the production manager reviews the originally submitted
-  manuscript to collect and act upon the following information:
+  manuscript to collect the following information:
   
  - Whether the manuscript was assigned to the correct section
  - Whether a fee waiver or any English editing fees may apply
@@ -22,7 +22,7 @@ Assign to vendor
   `Awaiting payment <#awaiting-payment>`__, and
   `Composition <#composition>`__.
   
-Video: Assignin to vendor
+Video: Assign to vendor
 ________________
 .. raw:: html
 
