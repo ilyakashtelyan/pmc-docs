@@ -12,7 +12,7 @@ Video: JPS - Author proofing
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQrrFIZ6Fs&v=5&ff=1" allowfullscreen="true"></iframe>
 
 Export files for initial proof
-______________________________
+-------------------------------
 
 | *Role: System*
 
@@ -43,8 +43,8 @@ ______________________________
   ready for the page proofs. The Awaiting import – initial proof task
   will open automatically.
 
-Awaiting import - initial
-______________________________
+Awaiting import - initial proof
+-------------------------------
 
 | *Role: Vendor*
 
@@ -77,8 +77,7 @@ ______________________________
   the Author proof review task will open.
 
 Author proof review
-______________________________
-
+-------------------------------
 *Role: Authors*
 
 | During the author proof review task, the authors have a chance to
@@ -90,8 +89,7 @@ ______________________________
   off on the proofs without requesting any corrections.
 
 Export files for revised proof
-______________________________
-
+-------------------------------
 *Role: System*
 
 | This is, once again, an automated task. After the authors complete the
