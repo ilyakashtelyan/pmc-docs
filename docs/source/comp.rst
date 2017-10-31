@@ -4,8 +4,12 @@ Composition
 | Composition is a group of tasks that are arranged together to achieve
   the goals of creating the page proofs and obtaining feedback on these
   proofs from the manuscript’s authors.
-| Video: `JPS - Author proofing
-  process <http://oncotarget.screencasthost.com/watch/cbQrrFIZ6F>`__
+  
+Video: JPS - Author proofing
+________________
+.. raw:: html
+
+	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQrrFIZ6Fs&v=5&ff=1" allowfullscreen="true"></iframe>
 
 Export files for initial proof
 ------------------------------
@@ -87,19 +91,21 @@ Author proof review
 Export files for revised proof
 ------------------------------
 
-| Role: System
+*Role: System*
+
 | This is, once again, an automated task. After the authors complete the
   proof review task, JPS will check the status of the Awaiting license
   to publish task. If the task is not complete, the system will continue
   checking and reminding the authors about the outstanding
   license/author agreement.
-| Important! The workflow will not proceed to the next task until the
-  Awaiting license to publish task is completed.
+
+  .. important:: The workflow will not proceed to the next task until the `Awaiting license to publish <license.html>`__ task is completed.
+
 | Once the Awaiting license to publish task is completed (or immediately
   if it was completed at an earlier point), JPS will process and package
   the author proof response and then upload it to the FTP. As soon as
   the upload is finished, JPS will notify the vendor and open the ePub
-  in OJS task. At this point, the `Composition <#composition>`__ process is finished.
+  in OJS task. At this point, the `Composition <comp.html>`__ process is finished.
 | The response files will be in the following directory:
   /home/JPS/From_JPS
 | The files will be packaged in a ZIP archive and named as follows:
