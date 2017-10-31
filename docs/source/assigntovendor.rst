@@ -1,7 +1,7 @@
 Assign to vendor
 ================
 
-| *Role: Production manager*
+| ***Role: Production manager***
 
 | The Assign to vendor task (system [ID] 117) open automatically when an
   accepted paper is imported from the submission system. During this
@@ -17,11 +17,13 @@ Assign to vendor
   the designated system functions and assigns the manuscript to the
   composition vendor. Before completing the task, the production editor
   has an option to add special instructions to the composition vendor.
-  Three tasks open automatically upon completion of the ASSIGN TO VENDOR
+  Three tasks open automatically upon completion of the assign to vendor
   task: `Awaiting license to publish <#awaiting-license-to-publish>`__,
   `Awaiting payment <#awaiting-payment>`__, and
   `Composition <#composition>`__.
   
-| Video: `Assigning the manuscript to a vendor - full
-  workflow <http://oncotarget.screencasthost.com/watch/cbQYYhI3Ms>`__
+Video: Assignin to vendor
+________________
+.. raw:: html
 
+	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQYYhI3Ms&v=5&ff=1" allowfullscreen="true"></iframe>
