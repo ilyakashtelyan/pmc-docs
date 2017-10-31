@@ -9,7 +9,7 @@ Video: JPS - Author proofing
 -------------------------------
 .. raw:: html
 
-	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQrrFIZ6Fs&v=5&ff=1" allowfullscreen="true"></iframe>
+	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQrrFIZ6F&v=5&ff=1" allowfullscreen="true"></iframe>
 
 Export files for initial proof
 -------------------------------
@@ -113,7 +113,6 @@ Export files for revised proof
   response, as well as any other files the authors chose to include with
   their proof revisions. Here’s a typical proof response package:
 | |image2|
-
 
 
 .. |image0| image:: _static/image1.png
