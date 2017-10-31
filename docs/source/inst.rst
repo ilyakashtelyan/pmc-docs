@@ -19,14 +19,9 @@ JPS Workflow Narrative instructions
 
 .. raw:: html
 
-	<iframe width=1280 height=752 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQYosI34l&v=5&controls=1&ff=1" allowfullscreen="true"></iframe>
+	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQYosI34l&v=5&controls=1&ff=1" allowfullscreen="true"></iframe>
 
-.. raw:: html
-	
-	<video controls src="_static/JPSIntro.mp4"></video>
-	
 
-| Video: `JPS Intro <http://oncotarget.screencasthost.com/watch/cbQYosI34l>`__
 
 Assign to vendor
 ================
