@@ -13,7 +13,7 @@ Assign to vendor
  - What type of license/author agreement document should be sent to the authors
  - Whether the manuscript section places any restrictions on which vendor it may be assigned to
   
-| The production editor then records the results of their inquiry using
+| The production manager then records the results of their inquiry using
   the designated system functions and assigns the manuscript to the
   composition vendor. Before completing the task, the production editor
   has an option to add special instructions to the composition vendor.
