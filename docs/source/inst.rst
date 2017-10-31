@@ -24,6 +24,7 @@ JPS Workflow Narrative instructions
 	</div>
 
 .. raw:: html
+	
 	<video controls src="_static/JPSIntro.mp4"></video>
 	
 
