@@ -6,13 +6,13 @@ Composition
   proofs from the manuscript’s authors.
   
 Video: JPS - Author proofing
-________________
+-------------------------------
 .. raw:: html
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQrrFIZ6Fs&v=5&ff=1" allowfullscreen="true"></iframe>
 
 Export files for initial proof
-------------------------------
+______________________________
 
 | *Role: System*
 
@@ -44,7 +44,7 @@ Export files for initial proof
   will open automatically.
 
 Awaiting import - initial
--------------------------------
+______________________________
 
 | *Role: Vendor*
 
@@ -77,9 +77,10 @@ Awaiting import - initial
   the Author proof review task will open.
 
 Author proof review
--------------------
+______________________________
 
-| Role: Authors
+*Role: Authors*
+
 | During the author proof review task, the authors have a chance to
   review the page proofs produced by the composition vendor and provide
   their corrections. After the system imports the page proof package
@@ -89,7 +90,7 @@ Author proof review
   off on the proofs without requesting any corrections.
 
 Export files for revised proof
-------------------------------
+______________________________
 
 *Role: System*
 
