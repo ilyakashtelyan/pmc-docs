@@ -18,9 +18,9 @@ Assign to vendor
   composition vendor. Before completing the task, the production editor
   has an option to add special instructions to the composition vendor.
   Three tasks open automatically upon completion of the assign to vendor
-  task: :ref: `Awaiting license to publish <title_license>`__,
-  :ref: `Awaiting payment <title_payment>`__, and
-  :ref: `Composition <title_comp>`__.
+  task: `Awaiting license to publish <license>`__,
+  `Awaiting payment <payment>`__, and
+  `Composition <comp>`__.
   
 Video: Assign to vendor
 ________________
