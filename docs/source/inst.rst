@@ -15,7 +15,7 @@ JPS Workflow Narrative instructions
   point of reference for the various naming conventions used throughout
   the system. For specific instructions associated with each task, please refer to
   the linked videos.
-.. note:: the password to access all videos is 1100316
+.. note:: if prompted for password when accesing videos, use 1100316
 
 .. raw:: html
 
@@ -69,7 +69,8 @@ Awaiting license to publish
 Awaiting payment
 ================
 
-| Roles: Payment office, Authors
+| *Roles: Payment office, Authors*
+
 | Awaiting payment is a multi-step task that runs in parallel with the
   rest of the workflow. This task opens when the `Assign to vendor <#assign-to-vendor>`__ task is completed and involves
   generating the initial invoice, adjusting it per authors’
@@ -90,6 +91,7 @@ Export files for initial proof
 ------------------------------
 
 | *Role: System*
+
 | This is an automated system task during which JPS gathers the files
   transferred from the submission system, organizes them into an
   archive, and notifies the composition vendor assigned to the article
@@ -120,7 +122,8 @@ Export files for initial proof
 Awaiting import - initial
 -------------------------------
 
-| Role: Vendor
+| *Role: Vendor*
+
 | During this task, JPS waits for the composition vendor to upload
   prepared page proofs to the FTP so that it can pass them on to the
   authors. The vendor prepares the PDF page proofs for the main article
