@@ -7,10 +7,11 @@ JPS is currently set up to include the following roles:
 - `Production manager <#production manager>`__
 - `Production editor manager <#production editor manager>`__
 - `Production editor <#production editor>`__
-- `Records office <record office>`__
-- `Payment office <payment office>`__
-- `Author <author>`__
-- `Compositor <compositor>`__
+- `Records office <#records office>`__
+- `Payment office <#payment office>`__
+- `Author <#author>`__
+- `Vendor <#vendor>`__
+- `System <#system>`__
 
 Production director
 -------------------
@@ -33,6 +34,55 @@ Production editor manager
 Production editor manager runs the team responsible for the `post-publication check <ppcheck.html>`__ process.
 The following task is assigned to the PE manager
 
-- :ref: `Assign the post-publication check to a PE <#Assign post-publication check to PE>`.
+- `Assign the post-publication check to a PE <ppcheck.html>`__
 
-.. note:: PE manager can also assign other post-publication checkes to themselves. In that case, they assume the `production editor<#production editor>`__ role for the remainder of the process.
+.. note:: PE manager can also assign other post-publication checkes to themselves. In that case, they assume the `production editor <#production editor>`__ role for the remainder of the process.
+
+Production editor
+-----------------
+The production editors, previously known as the PubMed team, bear the primary respoibility for guiding the paper through the `post-publication check <ppcheck.html>`__ process.
+They identify and forward corrections to vendors, verify the implementation, and approve papers for arrchiving.
+The following task is assigned to the production editor:
+
+- `Post-publication check <ppcheck.html>`__
+
+Records office
+--------------
+The records office is responsible for obtaining the license/author agreement document from the paper's authors.
+
+The following task is assigned to the records office:
+
+- `Awaiting author agreement <license.html>`__
+
+Payment office
+--------------
+The payment office is responsible for the invoicing process.
+The following task is assigned to the payment office:
+
+- `Awaiting payment <payment.html>`__
+
+Author
+------
+The corresponding author of the manuscript takes on this role
+.. note:: JPS currently supports only one corresponding author per manuscript
+During the workflow, we interact with the author multiple times. Signing documents permitting us to publish the paper, paying the publication fees,
+reviewing manuscript proofs and answering our questions are all author's responsibilities.
+
+Author's tasks in JPS include::
+
+- `Awaiting author agreement <license.html>`__
+- `Awaiting payment <payment.html>`__
+- `Author proof review <comp.html>`__
+
+Other roles may ask the author questions by raising queries during the following tasks:
+
+- `Composition (any sub-task) <comp.html>`__
+- `ePub in OJS <epub.html>`__
+
+Vendor
+------
+Vendors, occasionally referred to as the compositors or the production teams, are responsible for preparation of the author proofs, formatting and publication of the papers, implementing corrections, and archiving papers for the issue.
+
+Vendors' tasks in JPS include:
+
+- `
