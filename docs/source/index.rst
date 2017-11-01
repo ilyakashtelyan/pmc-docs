@@ -12,6 +12,7 @@ The complete table of contents can be found below. For new users, we suggest sta
 
 .. toctree::
    
+   roles
    intro
    assigntovendor
    license
