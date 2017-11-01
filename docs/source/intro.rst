@@ -1,21 +1,8 @@
-JPS Workflow Narrative instructions
+Intorudction
 ===================================
 
-| This document provides the JPS user with a workflow-based overview of
-  the manuscript production process in the October 2017 release of
-  Impact Journals, JPS. The tasks described here are organized in the
-  same order as they are encountered in the workflow to the maximum
-  extent possible. Please keep in mind that some tasks or task chains
-  may run in parallel. Please refer to the workflow diagram for further
-  information.
-
-.. important:: This is not a specific guide for each task. Instead, this
-  document should give you a general idea of how the tasks are arranged
-  and what’s the overall purpose of each task, as well as serve as a
-  point of reference for the various naming conventions used throughout
-  the system. For specific instructions associated with each task, please refer to
-  the linked videos.
-.. note:: if prompted for password when accesing videos, use 1100316
+The video below provides a quick overview of the key concepts that JPS is built around.
+.. important:: This site covers all of the tasks currently included in the workflow. You will likely be responsible for only a few of these tasks. Please see the `roles <roles.html>`__ page for the list of the tasks associated with your role.
 
 Video: JPS Intro
 ________________
