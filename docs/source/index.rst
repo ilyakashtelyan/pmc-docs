@@ -5,6 +5,7 @@ JPS Documentation
 Welcome to the Impact Journals JPS documentation site!
 |The purpose of this site is to provide instructions for the workflow implemented in Impact Journals JPS as of October 2017. 
 The complete table of contents can be found below. 
+
 |For new users, we suggest starting by reviwing the general workflow diagram, as well as the the intro and roles pages.
 
 | The tasks described here are organized in the
