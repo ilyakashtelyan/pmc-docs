@@ -17,7 +17,7 @@ Video: JPS - Post-publication check; overview and navigation
 Assign post-publication check to PE
 -----------------------------------
 
-Role: *`Production editor manager <roles.html#production-editor-manager>`__
+**Role:** `Production editor manager <roles.html#production-editor-manager>`__
 
 | During this step, the PE manager assigns the published articles to
   individual production editors who will guide it through the
@@ -33,7 +33,7 @@ Video: `JPS - Assigning the post-publication check
 Post-publication check (round 1)
 --------------------------------
 
-| Role: *`Production editor <roles.html#production-editor>`__
+**Role:** `Production editor <roles.html#production-editor>`__
 
 | This task opens when the article is assigned to a production editor.
   During this task, the PE navigates to the article and checks it
@@ -63,7 +63,7 @@ Video: JPS - Post-publication check: contacting authors and recording response
 Vendor revisions required
 -------------------------
 
-| Role: *`Vendor <roles.html#vendor>`__
+**Role:** `Vendor <roles.html#vendor>`__
 
 | This task opens if the PE identifies any required corrections during
   the post-publication check task. During this task, the vendor performs
@@ -79,7 +79,7 @@ Video: JPS - Post-publication check - Vendor perspective
 Post-publication check (round 2)
 --------------------------------
 
-| Role: *Production Editor <roles.html#production-editor>`__
+**Role:** Production Editor <roles.html#production-editor>`__
 
 | After the vendor indicates that they’ve completed the requested
   corrections, it is up to the PE to review the published article again

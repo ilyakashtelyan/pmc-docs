@@ -1,7 +1,7 @@
 Awaiting payment
 ================
 
-| *Roles: `Payment office <roles.html#payment-office>`__ , `Author <roles.html#author>`__ *
+| **Roles:** `Payment office <roles.html#payment-office>`__ , `Author <roles.html#author>`__
 
 | Awaiting payment is a multi-step task that runs in parallel with the
   rest of the workflow. This task opens when the `Assign to vendor <assigntovendor.html>`__ task is completed and involves

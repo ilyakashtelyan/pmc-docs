@@ -1,7 +1,7 @@
 Ready for archving
 ===================
 
-| Role: *`Vendor <roles.html#vendor>`__
+**Role:** `Vendor <roles.html#vendor>`__
 
 | This is the final task in the current implementation of the workflow.
   During this task, JPS notifies the vendor that the article is ready

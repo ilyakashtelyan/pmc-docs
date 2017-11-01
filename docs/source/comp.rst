@@ -14,7 +14,7 @@ Video: JPS - Author proofing
 Export files for initial proof
 -------------------------------
 
-| *Role: `System <roles.html#system>__*
+| **Role:** `System <roles.html#system>__
 
 | This is an automated system task during which JPS gathers the files
   transferred from the submission system, organizes them into an
@@ -46,7 +46,7 @@ Export files for initial proof
 Awaiting import - initial proof
 -------------------------------
 
-| *Role: `Vendor <roles.html#vendor>`__*
+| **Role:** `Vendor <roles.html#vendor>`__
 
 | During this task, the system waits for the composition vendor to upload the
   prepared page proofs to the FTP so that it can pass them on to the
@@ -82,7 +82,7 @@ Awaiting import - initial proof
 
 Author proof review
 -------------------------------
-*Role: `Author <roles.html#author>`__*
+**Role:** `Author <roles.html#author>`__
 
 | During the author proof review task, the authors have a chance to
   review the page proofs produced by the composition vendor and to make corrections. After the system imports the page proof package
@@ -92,7 +92,7 @@ Author proof review
 
 Export files for revised proof
 -------------------------------
-*Role: `System <roles.html#system>`__*
+**Role:** `System <roles.html#system>`__
 
 | This is, once again, an automated task. After the authors complete the
   proof review task, JPS will check the status of the Awaiting license

@@ -1,7 +1,7 @@
 Awaiting license to publish
 ===========================
 
-| *Roles: `Records office <roles.html#records-office>`__ , `Author <roles.html#author>`__ *
+| **Roles:** `Records office <roles.html#records-office>`__ , `Author <roles.html#author>`__
 
 | Immediately upon completion of the `Assign to vendor <assigntovendor.html>`__ task, JPS opens a query and notifies the
   authors regarding the required license to publish or author agreement

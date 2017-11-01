@@ -1,7 +1,7 @@
 ePub in OJS
 ===========
 
-| *Role: `Vendor <roles.html#vendor>`__*
+| **Role:** `Vendor <roles.html#vendor>`__
 
 .. note:: As a reminder, this task can only open if the Awaiting license to publish task is complete. 
 
@@ -37,7 +37,7 @@ Video: JPS - Publishing an article in OJS
 ePub in Paperchase
 ==================
 
-| *Role: `Production manager <roles.html#production-manager>`__
+| **Role:** `Production manager <roles.html#production-manager>`
 
 | This task opens immediately after the ePub in OJS task is completed.
   It is assigned to the production manager and requires publishing the
