@@ -3,11 +3,11 @@ Roles in JPS
 
 JPS is currently set up to include the following roles:
 
-- `Production director <#productiondirector>`__
-- `Production manager <#productionmanager>`__
-- `Production editor manager <#productioneditormanager>`__
-- `Production editor <#productioneditor>`__
-- `Records office <#records_office>`__
+- `Production director <#production-director>`__
+- `Production manager <#production-manager>`__
+- `Production editor manager <#production-editor-manager>`__
+- `Production editor <#production-editor>`__
+- `Records office <#records-office>`__
 - `Payment office <#payment-office>`__
 - `Author <#author>`__
 - `Vendor <#vendor>`__
@@ -72,7 +72,7 @@ Author's tasks in JPS include:
 
 - `Awaiting author agreement <license.html>`__
 - `Awaiting payment <payment.html>`__
-- `Author proof review <comp.html>`__
+- `Author proof review <comp.html#author-proof-review>`__
 
 Other roles may ask the author questions by raising queries during the following tasks:
 
@@ -92,8 +92,8 @@ Vendors' tasks in JPS include:
 
 System
 ------
-Ye friendly neighborhood robot. Coordinates, tracks, reminds, repeats.
+| |image4|
 
-|image4|
+Ye friendly neighborhood robot. Coordinates, tracks, reminds, repeats.
 
 .. |image4| image:: _static/image4.png
