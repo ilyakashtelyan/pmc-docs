@@ -3,12 +3,12 @@ Roles in JPS
 
 JPS is currently set up to include the following roles:
 
-- `Production director <#production director>`__
-- `Production manager <#production manager>`__
-- `Production editor manager <#production editor manager>`__
-- `Production editor <#production editor>`__
-- `Records office <#records office>`__
-- `Payment office <#payment office>`__
+- `Production director <#productiondirector>`__
+- `Production manager <#productionmanager>`__
+- `Production editor manager <#productioneditormanager>`__
+- `Production editor <#productioneditor>`__
+- `Records office <#recordsoffice>`__
+- `Payment office <#paymentoffice>`__
 - `Author <#author>`__
 - `Vendor <#vendor>`__
 - `System <#system>`__
@@ -85,4 +85,14 @@ Vendors, occasionally referred to as the compositors or the production teams, ar
 
 Vendors' tasks in JPS include:
 
-- `
+- `Composition <comp.html>`__
+- `ePub in OJS <epub.html>`__ 
+- `Vendor revisions <ppcheck.html>`__
+- `Awaiting import - archived zip <archiving.html>`
+
+System
+------
+Ye friendly neighborhhod robot. Coordinates, tracks, reminds, repeats.
+|image4|
+
+.. |image4| image:: _static/image4.png
