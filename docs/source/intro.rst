@@ -1,4 +1,4 @@
-Intorudction
+Introduction
 ===================================
 
 The video below provides a quick overview of the key concepts that JPS is built around.
