@@ -94,6 +94,6 @@ System
 ------
 | |image4|
 
-Ye friendly neighborhood robot. Coordinates, tracks, reminds, repeats.
+JPS, also known as ye olde friendly neighborhood robot. Coordinates, tracks, imports, exports, reminds, repeats. Likes cookies, hates violations of the naming convention.
 
 .. |image4| image:: _static/image4.png

@@ -2,6 +2,7 @@ Intorudction
 ===================================
 
 The video below provides a quick overview of the key concepts that JPS is built around.
+
 .. important:: This site covers all of the tasks currently included in the workflow. You will likely be responsible for only a few of these tasks. Please see the `roles <roles.html>`__ page for the list of the tasks associated with your role.
 
 Video: JPS Intro

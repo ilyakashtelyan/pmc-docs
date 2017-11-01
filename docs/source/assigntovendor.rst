@@ -1,21 +1,21 @@
 Assign to vendor
 ================
 
-| *Role: Production manager*
+| *Role: `Production manager <roles.html#production-manager>__*
 
 | The Assign to vendor task opens automatically when an
   accepted paper is imported from the submission system. During this
   task, the production manager reviews the originally submitted
   manuscript to collect the following information:
   
- - Whether the manuscript was assigned to the correct section
+ - Whether the manuscript is assigned to the correct section
  - Whether a fee waiver or any English editing fees may apply
  - What type of license/author agreement document should be sent to the authors
  - Whether the manuscript section places any restrictions on which vendor it may be assigned to
   
 | The production manager then records the results of their inquiry using
   the designated system functions and assigns the manuscript to the
-  composition vendor. Before completing the task, the production editor
+  vendor. Before completing the task, the production manager
   has an option to add special instructions to the composition vendor.
   Three tasks open automatically upon completion of the assign to vendor
   task: `Awaiting license to publish <license.html>`__,
