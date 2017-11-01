@@ -32,6 +32,7 @@ Production editor manager
 -------------------------
 Production editor manager runs the team responsible for the `post-publication check <ppcheck.html>`__ process.
 The following task is assigned to the PE manager
-- `Assign the post-publication check to a PE <ppcheck.html#Assign post-publication check to PE>`__
+
+- :ref: `Assign the post-publication check to a PE <#Assign post-publication check to PE>`.
 
 .. note:: PE manager can also assign other post-publication checkes to themselves. In that case, they assume the `production editor<#production editor>`__ role for the remainder of the process.
