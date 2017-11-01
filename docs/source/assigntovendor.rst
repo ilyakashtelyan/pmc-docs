@@ -1,7 +1,7 @@
 Assign to vendor
 ================
 
-| *Role: `Production manager <roles.html#production-manager>__*
+| *Role: `Production manager <roles.html#production-manager>`__*
 
 | The Assign to vendor task opens automatically when an
   accepted paper is imported from the submission system. During this
