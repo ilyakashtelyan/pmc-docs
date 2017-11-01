@@ -3,8 +3,7 @@ JPS Documentation
 =========================================
 
 Welcome to the Impact Journals JPS documentation site!
-The purpose of this site is to provide instructions for the workflow implemented in Impact Journals JPS as of October 2017. 
-The complete table of contents can be found below. 
+Here, you will find the instructions for the workflow implemented in Impact Journals JPS as of October 2017. 
 
 For new users, we suggest starting by reviwing the general workflow diagram, as well as the the intro and roles pages.
 
@@ -21,8 +20,9 @@ information.
   the system. For specific instructions associated with each task, please refer to
   the linked videos.
 
-.. note:: if prompted for password when accesing videos, use 1100316
-
+Table of contents:
+-----------------
+  
 .. toctree::
    
    roles
@@ -34,3 +34,5 @@ information.
    epub
    ppcheck
    archiving
+
+.. note:: if you are prompted for a password when accesing the embedded videos, please use 1100316
