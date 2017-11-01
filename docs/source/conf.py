@@ -146,7 +146,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PMCCorrectionsdocuments.tex', 'PMC Corrections documents Documentation',
+    (master_doc, 'JPS.tex', 'JPS instructions documents Documentation',
      'Oncotarget', 'manual'),
 ]
 
@@ -156,7 +156,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pmccorrectionsdocuments', 'PMC Corrections documents Documentation',
+    (master_doc, 'jpsint', 'JPS instructions documents Documentation',
      [author], 1)
 ]
 
