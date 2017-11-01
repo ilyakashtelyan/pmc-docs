@@ -88,7 +88,7 @@ Vendors' tasks in JPS include:
 - `Composition <comp.html>`__
 - `ePub in OJS <epub.html>`__ 
 - `Vendor revisions <ppcheck.html>`__
-- `Awaiting import - archived zip <archiving.html>`
+- `Awaiting import - archived zip <archiving.html>`__
 
 System
 ------
