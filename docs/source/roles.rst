@@ -92,7 +92,8 @@ Vendors' tasks in JPS include:
 
 System
 ------
-Ye friendly neighborhhod robot. Coordinates, tracks, reminds, repeats.
+Ye friendly neighborhood robot. Coordinates, tracks, reminds, repeats.
+
 |image4|
 
 .. |image4| image:: _static/image4.png
