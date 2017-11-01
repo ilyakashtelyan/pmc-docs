@@ -7,8 +7,8 @@ JPS is currently set up to include the following roles:
 - `Production manager <#productionmanager>`__
 - `Production editor manager <#productioneditormanager>`__
 - `Production editor <#productioneditor>`__
-- `Records office <#recordsoffice>`__
-- `Payment office <#paymentoffice>`__
+- `Records office <#records_office>`__
+- `Payment office <#payment-office>`__
 - `Author <#author>`__
 - `Vendor <#vendor>`__
 - `System <#system>`__
