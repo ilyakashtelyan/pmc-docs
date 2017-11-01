@@ -2,6 +2,7 @@ Roles in JPS
 ============
 
 JPS is currently set up to include the following roles:
+
 - Production director
 - Production manager
 - Production editor manager
@@ -21,6 +22,7 @@ Production manager
 The production manager is responsible for the day-to-day operation of the system. 
 The PM reviews the manuscripts that come in from the submission system and directs them into the appropriate workflows.
 The following tasks are assigned to the production manager:
+
 - `Assign to vendor <assigntovendor.html>`__.
 - `ePub in Paperchase <epub.html>`__.
 
