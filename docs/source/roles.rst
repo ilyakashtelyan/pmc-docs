@@ -68,7 +68,7 @@ The corresponding author of the manuscript takes on this role
 During the workflow, we interact with the author multiple times. Signing documents permitting us to publish the paper, paying the publication fees,
 reviewing manuscript proofs and answering our questions are all author's responsibilities.
 
-Author's tasks in JPS include::
+Author's tasks in JPS include:
 
 - `Awaiting author agreement <license.html>`__
 - `Awaiting payment <payment.html>`__
