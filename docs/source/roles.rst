@@ -4,13 +4,13 @@ Roles in JPS
 JPS is currently set up to include the following roles:
 
 - `Production director <#production director>`__
-- Production manager
-- Production editor manager
-- Production editor
-- Records office
-- Payment office
-- Author
-- Compositor
+- `Production manager <#production manager>`__
+- `Production editor manager <#production editor manager>`__
+- `Production editor <#production editor>`__
+- `Records office <record office>`__
+- `Payment office <payment office>`__
+- `Author <author>`__
+- `Compositor <compositor>`__
 
 Production director
 -------------------
@@ -27,3 +27,11 @@ The following tasks are assigned to the production manager:
 - `ePub in Paperchase <epub.html>`__
 
 The production manager also forms and prepares issues, a process currently done outside of JPS.
+
+Production editor manager
+-------------------------
+Production editor manager runs the team responsible for the `post-publication check <ppcheck.html>`__ process.
+The following task is assigned to the PE manager
+- `Assign the post-publication check to a PE <ppcheck.html#Assign post-publication check to PE>`__
+
+.. note:: PE manager can also assign other post-publication checkes to themselves. In that case, they assume the `production editor<#production editor>`__ role for the remainder of the process.

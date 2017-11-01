@@ -20,5 +20,5 @@ The complete table of contents can be found below.
    payment
    comp
    epub
-   pacheck
+   ppcheck
    archiving
