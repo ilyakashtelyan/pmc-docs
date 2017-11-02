@@ -22,7 +22,8 @@ Production manager
 ------------------
 The production manager is responsible for the day-to-day operation of the system. 
 The PM reviews the manuscripts that come in from the submission system and directs them into the appropriate workflows.
-The following tasks are assigned to the production manager:
+
+Production manager's tasks include:
 
 - `Assign to vendor <assigntovendor.html>`__
 - `ePub in Paperchase <epub.html>`__
@@ -32,7 +33,8 @@ The production manager also forms and prepares issues, a process currently done 
 Production editor manager
 -------------------------
 Production editor manager runs the team responsible for the `post-publication check <ppcheck.html>`__ process.
-The following task is assigned to the PE manager
+
+PE manager's tasks include:
 
 - `Assign the post-publication check to a PE <ppcheck.html>`__
 
@@ -42,7 +44,8 @@ Production editor
 -----------------
 The production editors, previously known as the PubMed team, bear the primary respoibility for guiding the paper through the `post-publication check <ppcheck.html>`__ process.
 They identify and forward corrections to vendors, verify the implementation, and approve papers for arrchiving.
-The following task is assigned to the production editor:
+
+PE's tasks include:
 
 - `Post-publication check <ppcheck.html>`__
 
@@ -50,14 +53,15 @@ Records office
 --------------
 The records office is responsible for obtaining the license/author agreement document from the paper's authors.
 
-The following task is assigned to the records office:
+Records office tasks include:
 
 - `Awaiting author agreement <license.html>`__
 
 Payment office
 --------------
 The payment office is responsible for the invoicing process.
-The following task is assigned to the payment office:
+
+Payment office tasks include:
 
 - `Awaiting payment <payment.html>`__
 
@@ -68,7 +72,7 @@ The corresponding author of the manuscript takes on this role
 During the workflow, we interact with the author multiple times. Signing documents permitting us to publish the paper, paying the publication fees,
 reviewing manuscript proofs and answering our questions are all author's responsibilities.
 
-Author's tasks in JPS include:
+Author's tasks include:
 
 - `Awaiting author agreement <license.html>`__
 - `Awaiting payment <payment.html>`__
@@ -83,7 +87,7 @@ Vendor
 ------
 Vendors, occasionally referred to as the compositors or the production teams, are responsible for preparation of the author proofs, formatting and publication of the papers, implementing corrections, and archiving papers for the issue.
 
-Vendors' tasks in JPS include:
+Vendors' tasks include:
 
 - `Composition <comp.html>`__
 - `ePub in OJS <epub.html>`__ 
