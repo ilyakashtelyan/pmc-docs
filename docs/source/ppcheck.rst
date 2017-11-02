@@ -53,6 +53,7 @@ Video: `JPS - Post-publication check - PE perspective
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6QqGIC3J&v=5&ff=1" allowfullscreen="true"></iframe>
 
+	
 Video: JPS - Post-publication check: contacting authors and recording response
 ------------------------------------------------------------------------------
 
