@@ -5,7 +5,7 @@ JPS Documentation
 Welcome to the Impact Journals JPS documentation site!
 Here, you will find the instructions for the workflow implemented in Impact Journals JPS as of October 2017. 
 
-To ger started, please go to the `introduction <intro.html>`__ page.
+To get started, please go to the `introduction <intro.html>`__ page.
 
 To the extent possible, the tasks described here are organized in the
 same order as you will encounter them in the workflow. Please keep in mind that some tasks or task chains
