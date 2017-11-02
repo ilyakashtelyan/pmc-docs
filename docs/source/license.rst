@@ -1,4 +1,4 @@
-Awaiting license to publish
+Awaiting author agreement
 ===========================
 
 | **Roles:** `Records office <roles.html#records-office>`__ , `Author <roles.html#author>`__
