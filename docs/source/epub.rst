@@ -20,7 +20,7 @@ ePub in OJS
   required to enter and verify the PII number assigned to the article by
   OJS, as well as the total page count for the PDF version of the
   article.
-.. warning:: Please double-check the values you enter in this step~ They are used later in the workflow.
+.. warning:: **Please double-check the values you enter in this step! They are used later in the workflow.**
   
 .. note:: Please do not include supplementary file page counts in the total!
 
