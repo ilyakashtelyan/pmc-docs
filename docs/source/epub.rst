@@ -39,7 +39,7 @@ Video: JPS - Publishing an article in OJS
 ePub in Paperchase
 ==================
 
-**Role:** `Production manager <roles.html#production-manager>`
+**Role:** `Production manager <roles.html#production-manager>__`
 
 This task opens immediately after the ePub in OJS task is completed.
 It is assigned to the production manager and requires publishing the
