@@ -1,7 +1,7 @@
 ePub in OJS
 ===========
 
-| **Role:** `Vendor <roles.html#vendor>`__
+**Role:** `Vendor <roles.html#vendor>`__
 
 .. note:: As a reminder, this task can only open if the Awaiting license to publish task is complete. 
 
