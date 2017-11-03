@@ -14,6 +14,7 @@ Video: JPS - Post-publication check; overview and navigation
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6eFAIzev&v=5&ff=1" allowfullscreen="true"></iframe>
 
+
 Assign post-publication check to PE
 -----------------------------------
 
@@ -29,6 +30,7 @@ Video: `JPS - Assigning the post-publication check
 .. raw:: html
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6eqwIziY&v=5&ff=1" allowfullscreen="true"></iframe>
+
 
 Post-publication check (round 1)
 --------------------------------
@@ -62,6 +64,7 @@ Video: JPS - Post-publication check: contacting authors and recording response
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb60blI84N&v=5&ff=1" allowfullscreen="true"></iframe>
 
+
 Vendor revisions required
 -------------------------
 
@@ -78,12 +81,12 @@ Video: JPS - Post-publication check - Vendor perspective
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6QYlICTn&v=5&ff=1" allowfullscreen="true"></iframe>
 
+
 Post-publication check (round 2)
 --------------------------------
 
 **Role:** `Production editor <roles.html#production-editor>`__
 
 After the vendor indicates that they’ve completed the requested
-corrections, it is up to the PE to review the published article again
-and to indicate if further corrections are required. This can be accomplished in the same way as the initial post-publication check. The PE is presented with two options: one returns the article to the vendor for further corrections, and the other completes the post-publication check process and opens the ready for archiving task.
+corrections, the PE will review the published article again and indicate if further corrections are required. This can be accomplished in the same way as the initial post-publication check. The PE is presented with two options: one returns the article to the vendor for further corrections, and the other completes the post-publication check process and opens the ready for archiving task.
 

@@ -84,6 +84,7 @@ Other roles may ask the author questions by raising queries during the following
 
 - `Composition (any sub-task) <comp.html>`__
 - `ePub in OJS <epub.html>`__
+- `Post-publication check <ppcheck.html>`__
 
 Vendor
 ------
@@ -100,6 +101,6 @@ System
 ------
 | |image4|
 
-JPS, also known as ye olde friendly neighborhood robot. Coordinates, tracks, imports, exports, reminds, repeats. Likes cookies, hates violations of the naming convention.
+Ye olde friendly neighborhood robot. Coordinates, tracks, imports, exports, reminds, repeats. Likes cookies, hates violations of the naming convention.
 
 .. |image4| image:: _static/image4.png
