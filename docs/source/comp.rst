@@ -94,27 +94,28 @@ Export files for revised proof
 -------------------------------
 **Role:** `System <roles.html#system>`__
 
-| This is, once again, an automated task. After the authors complete the
-  proof review task, JPS will check the status of the Awaiting license
-  to publish task. If the task is not complete, the system will continue
-  checking and reminding the authors about the outstanding
-  license/author agreement.
+This is, once again, an automated task. After the authors complete the
+proof review task, JPS will check the status of the Awaiting license
+to publish task. If the task is not complete, the system will continue
+checking and reminding the authors about the outstanding
+license/author agreement.
 
-  .. warning:: The workflow will not proceed to the next task until the `Awaiting license to publish <license.html>`__ task is completed.
+.. warning:: The workflow will not proceed to the next task until the `Awaiting license to publish <license.html>`__ task is completed.
 
-| Once the Awaiting license to publish task is completed (or immediately,
-  if it was completed at an earlier point), JPS will process and package
-  the author proof response and then upload it to the FTP. When upload is finished, JPS will notify the vendor and open the `ePub
-  in OJS <epub.html>`__ task. At this point, the Composition process is finished.
-| The response files will be in the following directory:
+Once the Awaiting license to publish task is completed (or immediately,
+if it was completed at an earlier point), JPS will process and package
+the author proof response and then upload it to the FTP. When upload is finished, JPS will notify the vendor and open the `ePub
+in OJS <epub.html>`__ task. At this point, the Composition process is finished.
+
+The response files will be in the following directory:
 
  - /home/JPS/From_JPS
  
-| The files will be packaged in a ZIP archive and named as follows:
+The files will be packaged in a ZIP archive and named as follows:
 
  - OT_[MS#]_proofrev.zip
  
-| Inside the package, there will be a readme file containing the response text entered by the author, along with any other files that they chose to include with
+nside the package, there will be a readme file containing the response text entered by the author, along with any other files that they chose to include with
   their proof revisions. Here’s a typical proof response package:
 | |image2|
 

@@ -15,7 +15,7 @@ JPS is currently set up to include the following roles:
 
 Production director
 -------------------
-The production director is responsible for maintaining and updating the system configuration files, troubleshooting manuscript import and export problems, adding new workers to JPS, and providing support to exisitng users. 
+The production director is responsible for maintaining and updating the system configuration files, troubleshooting manuscript import and export problems, adding new workers to JPS, and providing support to existing users. 
 They are your main contact if you are having problems. The production director does not carry out any tasks in the current workflow.
 
 Production manager
@@ -42,8 +42,8 @@ PE manager's tasks include:
 
 Production editor
 -----------------
-The production editors, previously known as the PubMed team, bear the primary respoibility for guiding the paper through the `post-publication check <ppcheck.html>`__ process.
-They identify and forward corrections to vendors, verify the implementation, and approve papers for arrchiving.
+The production editors, previously known as the PubMed team, bear the primary responsibility for guiding the paper through the `post-publication check <ppcheck.html>`__ process.
+They identify and forward corrections to vendors, verify the implementation, and approve papers for archiving.
 
 PE's tasks include:
 
@@ -67,8 +67,10 @@ Payment office tasks include:
 
 Author
 ------
-The corresponding author of the manuscript takes on this role
+The corresponding author of the manuscript takes on this role.
+
 .. note:: JPS currently supports only one corresponding author per manuscript
+
 During the workflow, we interact with the author multiple times. Signing documents permitting us to publish the paper, paying the publication fees,
 reviewing manuscript proofs and answering our questions are all author's responsibilities.
 

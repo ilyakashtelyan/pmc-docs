@@ -12,7 +12,7 @@ Upload directory: /home/JPS/To_JPS
 
 The archive file should be names as follows: OT_[MS#]_VoR.zip
 Note: VoR stands for version of record.
-Once the archive has been important, JPS will notify the Production
+Once the archive has been imported, JPS will notify the Production
 Manager that the article has been archived and is ready to be included
 in the issue.
   
