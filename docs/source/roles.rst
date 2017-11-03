@@ -1,5 +1,5 @@
-Roles in JPS
-============
+Roles
+=====
 
 JPS is currently set up to include the following roles:
 
@@ -22,7 +22,6 @@ Production manager
 ------------------
 The production manager is responsible for the day-to-day operation of the system. 
 The PM reviews the manuscripts that come in from the submission system and directs them into the appropriate workflows.
-
 Production manager's tasks include:
 
 - `Assign to vendor <assigntovendor.html>`__
@@ -33,7 +32,6 @@ The production manager also forms and prepares issues, a process currently done 
 Production editor manager
 -------------------------
 Production editor manager runs the team responsible for the `post-publication check <ppcheck.html>`__ process.
-
 PE manager's tasks include:
 
 - `Assign the post-publication check to a PE <ppcheck.html>`__
@@ -44,7 +42,6 @@ Production editor
 -----------------
 The production editors, previously known as the PubMed team, bear the primary responsibility for guiding the paper through the `post-publication check <ppcheck.html>`__ process.
 They identify and forward corrections to vendors, verify the implementation, and approve papers for archiving.
-
 PE's tasks include:
 
 - `Post-publication check <ppcheck.html>`__
@@ -52,7 +49,6 @@ PE's tasks include:
 Records office
 --------------
 The records office is responsible for obtaining the license/author agreement document from the paper's authors.
-
 Records office tasks include:
 
 - `Awaiting author agreement <license.html>`__
@@ -60,7 +56,6 @@ Records office tasks include:
 Payment office
 --------------
 The payment office is responsible for the invoicing process.
-
 Payment office tasks include:
 
 - `Awaiting payment <payment.html>`__
@@ -73,7 +68,6 @@ The corresponding author of the manuscript takes on this role.
 
 During the workflow, we interact with the author multiple times. Signing documents permitting us to publish the paper, paying the publication fees,
 reviewing manuscript proofs and answering our questions are all author's responsibilities.
-
 Author's tasks include:
 
 - `Awaiting author agreement <license.html>`__
@@ -89,7 +83,6 @@ Other roles may ask the author questions by raising queries during the following
 Vendor
 ------
 Vendors, occasionally referred to as the compositors or the production teams, are responsible for preparation of the author proofs, formatting and publication of the papers, implementing corrections, and archiving papers for the issue.
-
 Vendors' tasks include:
 
 - `Composition <comp.html>`__
