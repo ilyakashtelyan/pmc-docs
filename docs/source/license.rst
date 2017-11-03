@@ -11,5 +11,5 @@ was submitted and asks them to review it. The records office staff
 reviews the document and either initiates a new round of the the Awaiting license to publish task if the provided document is not suitable, or records the
 status of the form as received and completes the task. 
   
- .. warning: this task blocks the `ePub in OJS <epub.html>`__ task: it won’t open until this task is complete.
+.. warning: this task blocks the `ePub in OJS <epub.html>`__ task: it won’t open until this task is complete.
 
