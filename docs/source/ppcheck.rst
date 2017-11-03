@@ -7,7 +7,7 @@ together to achieve the goal of identifying post-publications
 communicating them to the vendor, implementing the identified
 corrections and verifying the implementation.
 
-Video: JPS - Post-publication check; overview and navigation
+Video: Post-publication check; overview and navigation
 ------------------------------------------------------------
 
 .. raw:: html
@@ -24,7 +24,7 @@ During this step, the PE manager assigns the published articles to
 individual production editors who will guide it through the
 post-publication check process.
 
-Video: `JPS - Assigning the post-publication check
+Video: Assigning the post-publication check
 --------------------------------------------------
 
 .. raw:: html
@@ -49,7 +49,7 @@ archiving <archiving.html>`__ task.
 During this step, the PE also has an option to contact the authors by
 opening a query via the Send email function.
 
-Video: `JPS - Post-publication check - PE perspective
+Video: Post-publication check - PE perspective
 -------------------------------------------------------
 
 .. raw:: html
@@ -57,7 +57,7 @@ Video: `JPS - Post-publication check - PE perspective
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6QqGIC3J&v=5&ff=1" allowfullscreen="true"></iframe>
 
 	
-Video: JPS - Post-publication check: contacting authors and recording response
+Video: Post-publication check: contacting authors and recording response
 ------------------------------------------------------------------------------
 
 .. raw:: html
@@ -74,7 +74,7 @@ This task opens if the PE identifies any required corrections during
 the post-publication check task. During this task, the vendor performs
 the requested corrections and notifies the PE that they are completed.
 
-Video: JPS - Post-publication check - Vendor perspective
+Video: Post-publication check - Vendor perspective
 --------------------------------------------------------
 
 .. raw:: html

@@ -21,7 +21,7 @@ Once the archive has been imported, JPS will notify the Production
 Manager that the article has been archived and is ready to be included
 in the issue.
   
-Video: JPS - Archiving the paper for issue
+Video: Archiving the paper for issue
 ------------------------------------------
 
 .. raw:: html

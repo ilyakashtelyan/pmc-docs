@@ -36,6 +36,7 @@ Video: JPS - Publishing an article in OJS
 
 	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbQOYFIuN1&v=5&ff=1" allowfullscreen="true"></iframe>
 
+	
 ePub in Paperchase
 ==================
 
