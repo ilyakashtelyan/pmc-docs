@@ -49,7 +49,7 @@ their article is published online and provide them with the link to
 access it. The Post-publication check group of tasks begins immediately after
 this step.
 
-Video: `JPS - ePub in Paperchase
+Video: JPS - ePub in Paperchase
 --------------------------------
  
 .. raw:: html
