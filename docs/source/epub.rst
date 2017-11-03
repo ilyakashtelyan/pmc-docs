@@ -29,7 +29,7 @@ article.
 During this task, the vendor has an option to open a query to the
 authors via the Send email interface.
  
-Video: JPS - Publishing an article in OJS
+Video: Publishing an article in OJS
 -----------------------------------------
  
 .. raw:: html
@@ -50,7 +50,7 @@ their article is published online and provide them with the link to
 access it. The Post-publication check group of tasks begins immediately after
 this step.
 
-Video: JPS - ePub in Paperchase
+Video: ePub in Paperchase
 --------------------------------
  
 .. raw:: html
