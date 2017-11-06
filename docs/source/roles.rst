@@ -92,7 +92,7 @@ Vendors' tasks include:
 
 System
 ------
-| |image4|
+|image4|
 
 Ye olde friendly neighborhood robot. Coordinates, tracks, imports, exports, reminds, repeats. Likes cookies, hates violations of the naming convention.
 

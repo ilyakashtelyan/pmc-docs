@@ -3,7 +3,7 @@ ePub in OJS
 
 **Role:** `Vendor <roles.html#vendor>`__
 
-.. note:: This task will only open if the Awaiting authoir agreement task is complete. No signature = no publication.
+.. note:: This task will only open if the `Awaiting author agreement <license.html>`__ task is complete. No signature = no publication.
 
 During this task, the vendor will prepare
 the article files for publication in OJS (“on the website”). This

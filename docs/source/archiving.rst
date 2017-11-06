@@ -11,7 +11,7 @@ archive and uploads it to the JPS FTP.
 
 - Upload directory: /home/JPS/To_JPS
 
-The archive file should be names as follows: 
+The archive file should be named as follows: 
 
 - OT_[MS#]_VoR.zip
 
