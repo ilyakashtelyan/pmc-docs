@@ -34,10 +34,12 @@ original accepted submission:
  - Video/Source = OT_[MS#]_[ID]_video.ext
  - Dataset/Source= OT_[MS#]_[ID]_dataset1.ext
  - Merged PDF = OT_[MS#]_[ID].pdf
-.. note:: [MS#] is the six-digit manuscript number assigned by the submission system. Revision markers (R1, R2) are not included in this number. [ID] is a sequential identifier assigned to each file in the package, it can be ignored.
+
+ .. note:: [MS#] is the six-digit manuscript number assigned by the submission system. Revision markers (R1, R2) are not included in this number. [ID] is a sequential identifier assigned to each file in the package, it can be ignored.
 
 Here are the contents of a typical file package:
-| |image0|
+
+|image0|
 
 After JPS successfully exports the file package to the FTP
 server, it will notify the composition vendor that the article is
@@ -62,13 +64,13 @@ follows:
 
 .. note:: [ID] is a sequential number of the supplementary proof file, starting with 2. So, if an article requires three PDF supplementary proof files, the ID will be 2 for the second file and 3 for the third file.
 
-All of these PDF files must be zipped together with the archive named
-  as follows:
+All of these PDF files must be zipped together with the archive named as follows:
 
  - OT_[MS#]_proof.zip
  
 Here’s an example of a typical package containing author proofs:
-| |image1|
+
+|image1|
 
 The vendor then uploads the complete package to the JPS FTP.
 Upload directory: 
@@ -121,7 +123,8 @@ Inside the package, there will be a readme file containing the response text ent
 their proof revisions.
 
 Here’s a typical proof response package:
-| |image2|
+
+|image2|
 
 
 .. |image0| image:: _static/image1.png
