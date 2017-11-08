@@ -22,7 +22,7 @@ transferred from the submission system, organizes them into an
 archive, and notifies the composition vendor assigned to the article
 in the `Assign to vendor <assigntovendor.html>`__ task that the page
 proofs need to be prepared. The files will be packaged together in a
-ZIP archive names as follows: OT_[MS#]_orig.zip
+ZIP archive named as follows: OT_[MS#]_orig.zip
 
 The following files are supplied to the vendor if present in the
 original accepted submission:
