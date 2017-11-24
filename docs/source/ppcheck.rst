@@ -73,7 +73,7 @@ A special scenario is possible when the PE has corrections for the vendors to im
 - Do not use the Revisions required or No corrections options yet! Raising a query to the authors will put the post-publication task check on hold automatically. 
 - As soon as you receive a response from the authors, please request corrections as usual.
 
-.. warning: If you do not have any actual corrections to request, please do not send an empty "placeholder" email to the vendor! This includes emails indicating that you are waiting for something from the authors. Please only use the 'revisions required' option if you are requesting actual corrections!
+.. warning:: If you do not have any actual corrections to request, please do not send an empty "placeholder" email to the vendor! This includes emails indicating that you are waiting for something from the authors. Please only use the 'revisions required' option if you are requesting actual corrections!
 
 .. raw:: html
 
