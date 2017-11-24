@@ -64,16 +64,18 @@ During the post-pub check process, the PEs have an option to request additional 
 A special scenario is possible when the PE has corrections for the vendors to implement right away, but also needs to contact the authors. There are a couple ways to accommodate this situation.
 
 1) If you have corrections for the vendors but also need to contact the authors:
+
 - Contact the authors using the Send email functionality. Please choose the 'Question' template.
 - Send th remaining corrections to the composition vendor as usual.
 - If the authors respond before the vendor has marked the preivously sent corrections as complete, use the Send email functionality to forward additional corrections to them. Please use the Additional corrections necessary template.
 
 2) If you do not have any corrections to relay to the vendor but still need a response from the authors:
+
 - Contact the authors using the Send email functionality. Please choose the 'Question' template.
 - Do not use the Revisions required or No corrections options yet! Raising a query to the authors will put the post-publication task check on hold automatically. 
 - As soon as you receive a response from the authors, please request corrections as usual.
 
-.. warning:: If you do not have any actual corrections to request, please do not send an empty "placeholder" email to the vendor! This includes emails indicating that you are waiting for something from the authors. Please only use the 'revisions required' option if you are requesting actual corrections!
+.. warning:: If you do not have any actual corrections to request, please _do not send an empty "placeholder" email_ to the vendor! This includes emails indicating that you are waiting for something from the authors. Please only use the 'revisions required' option if you are requesting actual corrections!
 
 .. raw:: html
 
