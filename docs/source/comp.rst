@@ -15,7 +15,7 @@ Video: Author proofing
 Export files for initial proof
 -------------------------------
 
-**Role:** `System <roles.html#system>__
+**Role:** `System <roles.html#system>`__
 
 This is an automated system task during which JPS gathers the files
 transferred from the submission system, organizes them into an
