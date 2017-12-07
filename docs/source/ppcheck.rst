@@ -67,7 +67,7 @@ A special scenario is possible when the PE has corrections for the vendors to im
 
  - Contact the authors using the 'Send email' functionality. Please choose the 'Question' template.
  - Send the remaining corrections to the composition vendor as usual.
- - If the author responds before the vendor has marked the preivously sent corrections as complete, use the 'Send email' functionality to forward additional corrections to them. Please use the 'Additional corrections necessary' template.
+ - If the author responds before the vendor has marked the previously sent corrections as complete, use the 'Send email' functionality to forward additional corrections to them. Please use the 'Additional corrections necessary' template.
 
 2) If you do not have any corrections to relay to the vendor but still need a response from the authors:
 
