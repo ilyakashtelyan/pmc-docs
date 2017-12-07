@@ -66,8 +66,8 @@ A special scenario is possible when the PE has corrections for the vendors to im
 1) If you have corrections for the vendors but also need to contact the authors:
 
  - Contact the authors using the 'Send email' functionality. Please choose the 'Question' template.
- - Send th remaining corrections to the composition vendor as usual.
- - If the authors respond before the vendor has marked the preivously sent corrections as complete, use the 'Send email' functionality to forward additional corrections to them. Please use the 'Additional corrections necessary' template.
+ - Send the remaining corrections to the composition vendor as usual.
+ - If the author responds before the vendor has marked the preivously sent corrections as complete, use the 'Send email' functionality to forward additional corrections to them. Please use the 'Additional corrections necessary' template.
 
 2) If you do not have any corrections to relay to the vendor but still need a response from the authors:
 
@@ -77,7 +77,7 @@ A special scenario is possible when the PE has corrections for the vendors to im
 
 .. warning:: If you do not have any actual corrections to request, please **do not send an empty "placeholder" email** to the vendor! This includes emails indicating that you are waiting for something from the authors. Please only use the 'revisions required' option if you are requesting actual corrections!
 
-Video: Post-publication check: contacting authos and recording response
+Video: Post-publication check: contacting authors and recording response
 ------------------------------
 
 .. raw:: html
