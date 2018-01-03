@@ -13,7 +13,8 @@ archive and uploads it to the JPS FTP.
 
 The archive file should be named as follows: 
 
-- OT_[MS#]_VoR.zip
+- OT_MS[MS#]_[PII]_VoR.zip
+- OT_MS12345_56789_VoR.zip
 
 .. note:: VoR stands for version of record
 
@@ -26,6 +27,4 @@ Video: Archiving the paper for issue
 
 .. raw:: html
 
-	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cb6FqOIshQ&v=5&ff=1" allowfullscreen="true"></iframe>
-
-`Bonus <https://www.youtube.com/watch?v=Z0GFRcFm-aY>`__
+	<iframe width=640 height=392 frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cbltoT2SVz&v=5&ff=1" allowfullscreen="true"></iframe>
